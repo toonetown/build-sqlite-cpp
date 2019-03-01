@@ -1,6 +1,6 @@
 ## SQLite-CPP Packaging ##
 
-This project provides a script which will package SqliteModernCpp headers in a similar manner to the other `build-*` projects.  It contains as a submodule, [toonetown/sqlite-cpp][sqlite-cpp-release] git project.  It also contains a copy of the [SQLite Amalgamation][sqlite-amalg-release].
+This project provides a script which will package SqliteModernCpp headers in a similar manner to the other `build-*` projects.  It contains as a submodule, [sqlite-cpp][sqlite-cpp-release] git project.  It also contains a copy of the [SQLite Amalgamation][sqlite-amalg-release].
 
 [sqlite-cpp-release]: https://github.com/toonetown/sqlite-cpp
 [sqlite-amalg-release]: https://sqlite.org/amalgamation.html
